@@ -8,6 +8,6 @@
     <artifactId>spring-integration-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-        <filename>spring-integration-example</filename>
-
+        <finalName>spring-integration-example</finalName>
+</build>
 </project>
